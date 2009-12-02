@@ -2,6 +2,6 @@ If running Linux, use the gimptool command:
 
 $ gimptool --install-script <your script name>
 
-Or look under the ~/.gimp/scripts folder. If running Windows, look under %HOME%\.gimp\scripts, or under %USERPROFILE%\.gimp\scripts if %HOME% is not defined. Put the lomo-gimp.scm file there. Then restart the GIMP or do a refresh by using Xtns, Script-Fu, Refresh Scripts from the toolbox. The script will now appear in the Script-Fu, Alchemy menu.
+Or look under the ~/.gimp/scripts folder. If running Windows, look under %HOME%\.gimp\scripts, or under %USERPROFILE%\.gimp\scripts if %HOME% is not defined. Put the lomo-gimp.scm file there. Then restart the GIMP or do a refresh by using Xtns, Script-Fu, Refresh Scripts from the toolbox. The script will now appear in the Script-Fu, Alchemy menu. On recent GIMP versions, look under Filters, Artistic.
 
 Find more scripts at registry.gimp.org .
